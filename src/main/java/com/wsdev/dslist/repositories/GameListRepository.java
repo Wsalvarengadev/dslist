@@ -6,5 +6,6 @@ import com.wsdev.dslist.entities.GameList;
 
 public interface GameListRepository extends JpaRepository<GameList, Long>{
 
-	
+
 }
+ 
